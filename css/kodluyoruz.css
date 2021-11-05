@@ -1,0 +1,20 @@
+h1{
+    color:#3F3351;
+}
+h2{
+    color: #864879;
+}
+h3{
+    color: #E9A6A6;
+}
+img{
+    height: 370px;
+    width: 500px;
+}
+.p-font{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(248, 226, 241);
+}
